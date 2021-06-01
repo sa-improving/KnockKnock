@@ -1,0 +1,16 @@
+C:\Dev\Trash\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.exe
+C:\Dev\Trash\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.deps.json
+C:\Dev\Trash\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.runtimeconfig.json
+C:\Dev\Trash\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.runtimeconfig.dev.json
+C:\Dev\Trash\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.dll
+C:\Dev\Trash\KnockKnock\KnockKnock\bin\Debug\net5.0\ref\KnockKnock.dll
+C:\Dev\Trash\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.pdb
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.csprojAssemblyReference.cache
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.AssemblyInfoInputs.cache
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.AssemblyInfo.cs
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.csproj.CoreCompileInputs.cache
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.dll
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\ref\KnockKnock.dll
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.pdb
+C:\Dev\Trash\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.genruntimeconfig.cache
